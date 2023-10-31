@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20058513259",
+    "project_id": "copilot-a70d9",
+    "storage_bucket": "copilot-a70d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20058513259:android:9fa05f4f0090e9a042f62e",
+        "android_client_info": {
+          "package_name": "com.appwesome.copilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYn4rEcwM3yaBZY3LS3FZGR-v7i2HOPzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
